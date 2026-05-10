@@ -76,13 +76,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Shahadat429&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahadat429&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahadat429&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+</p> -->
 
 ---
 
