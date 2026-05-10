@@ -66,9 +66,7 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shahadat429/Shahadat429/output/github-snake-dark.svg" />
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Shahadat429/Shahadat429/output/github-snake-dark.svg" /> </p>
 
 ---
 
