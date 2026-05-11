@@ -39,12 +39,18 @@
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,ts,firebase" />
+   <img src="https://jwt.io/img/pic_logo.svg" height="48" alt="JWT"/>
+  <img src="https://authjs.dev/img/logo-sm.png" height="48" alt="NextAuth"/>
+</p>
 </p>
 
 ### 🗄️ Database & Auth
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
+   <img src="https://jwt.io/img/pic_logo.svg" height="48" alt="JWT"/>
+  <img src="https://authjs.dev/img/logo-sm.png" height="48" alt="NextAuth"/>
+</p>
 </p>
 
 - 🔐 NextAuth  
