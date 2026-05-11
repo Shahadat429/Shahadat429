@@ -34,12 +34,12 @@
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite,nextjs,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite,nextjs,js,ts" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,firebase" />
 </p>
 
 ### 🗄️ Database & Auth
@@ -54,19 +54,21 @@
 
 ### 🛠️ Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,ts" />
 </p>
 
 ### 🔧 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Shahadat429/Shahadat429/output/github-snake-dark.svg" /> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shahadat429/Shahadat429/output/github-snake-dark.svg" />
+</p>
 
 ---
 
@@ -109,6 +111,7 @@
 - 🛡️ Authentication & Security (JWT, NextAuth)  
 - 🚀 Backend Performance Optimization  
 - 🗄️ PostgreSQL + MongoDB Mastery  
+- 🟦 TypeScript for Scalable Applications  
 
 ---
 
