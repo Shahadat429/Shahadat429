@@ -8,18 +8,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Roles-2ea44f?style=for-the-badge" />
+  <img alt="Open to internships and junior roles" src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Roles-2ea44f?style=for-the-badge" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Shahadat429">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/md-shahadat-hossan-shayekh-0675b8381">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mdshahadathossanshayekh429@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -59,23 +59,23 @@ Web app for creating, editing and organizing notes.
 
 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite,nextjs" />
+  <img alt="Frontend technologies" src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite,nextjs" />
 </p>
 
 **Backend & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase" />
-  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" height="48" />
+  <img alt="Backend and database technologies" src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,firebase" />
+  <img alt="Neon" src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" height="48" />
 </p>
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java" />
+  <img alt="Programming languages" src="https://skillicons.dev/icons?i=js,ts,c,cpp,java" />
 </p>
 
 **Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img alt="Developer tools" src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 🔐 JWT · Auth.js (NextAuth) &nbsp;|&nbsp; 🔗 REST APIs · Axios
@@ -93,11 +93,7 @@ Web app for creating, editing and organizing notes.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shahadat429&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shahadat429/Shahadat429/output/github-snake-dark.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Shahadat429/Shahadat429/output/github-snake-dark.svg" />
 </p>
 
 ---
